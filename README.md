@@ -51,6 +51,6 @@ Contributions are welcome! Please feel free to open an issue to discuss ideas, r
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the GPL-3.0 License. See the LICENSE file for more details.
 
 By SnowyMouse and Aerocratica
