@@ -23,20 +23,18 @@ Magellanicus has the potential to later serve as a renderer replacement for Halo
 
 ## Installation and Usage
 
-	1.	Clone the repository:
+	1.	Clone the repository: 
+ 		git clone https://github.com/SnowyMouse/magellanicus
 
-git clone https://github.com/SnowyMouse/magellanicus
 
-
-	2.	Build the project:
-Ensure that you have Rust and Vulkan SDK installed. Then, navigate to the project directory and build using Cargo:
-
-cd magellanicus
-cargo build --release
+	2.	Build the project: 
+ 		Ensure that you have Rust and Vulkan SDK installed. Then, navigate to the project directory and build using Cargo:
+		cd magellanicus
+		cargo build --release
 
 
 	3.	Run the renderer:
-Specific integration details with the replacement Sapien editor are still under development. Instructions will be provided as the project progresses.
+		Specific integration details with the replacement Sapien editor are still under development. Instructions will be provided as the project progresses.
 
 ## Roadmap
 
